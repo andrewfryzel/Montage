@@ -1,6 +1,6 @@
 <img href="https://youtu.be/UXRNeHgKlKQ" src="MontageIcon.PNG" width="500px">  
 
-[![Montage Video](YoutubeLink.PNG)](https://youtu.be/UXRNeHgKlKQ)
+[![Montage Video](YoutubeLink.PNG)](https://youtu.be/UXRNeHgKlKQ) width="500px"]
 
 Video Link: https://youtu.be/UXRNeHgKlKQ
 
