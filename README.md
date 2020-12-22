@@ -1,0 +1,2 @@
+# Montage
+Creating a service that reduces the need for editors to re-watch dozens of hours of footage can cut back significantly on the time an editor spends on editing, and in turn, improve project productivity. Additionally, by providing a clean, intuitive, and simple way of cutting and re-cutting footage together, Montage would provide editor’s an entirely new way to edit which would allow them to focus solely on the story they want to tell, rather than the tedious intricacies of editing their footage manually.
