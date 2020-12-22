@@ -12,4 +12,6 @@ Video editors often work with huge libraries of footage to create memorable and 
 
 Montage is an Adobe Premiere extension created to streamline the editing process in two important  ways. First, Montage incorporates the best of modern speech-to-text and information retrieval technology to instantly find footage corresponding to sentences, individuals, or topics and efficiently captions and tags each second of footage. Montage provides all the tools needed to know the footage inside and out and, in turn, makes for better editing and happier editors. However, all this rich and concise information would go to waste without Montage’s second unique feature: the integrated timeline video editor. The Montage extension will allow users to rearrange, cut, and delete parts of the transcript and have those changes reflect in the premier timeline, allowing an editor to edit footage without even touching the video. On top of that, Montage’s quick clip preview would enable an editor to drag and drop various clips of footage directly onto their timeline. Montage’s accessible interface and powerful features make it a valuable resource for editors working on any project.
 
+<img src="uploads/e67a57493446210d95f8b8624b60cb24/FootageSearchGif.gif" width="500px">  
+
 Team: Nick Howell, Andrew Fryzel, Christopher de Freitas, Gavin Monson
