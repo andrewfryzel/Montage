@@ -1,4 +1,5 @@
 # Montage
+<img src="MontageIcon.PNG" width="500px">  
 
 
 # **Summary**  
