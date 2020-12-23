@@ -16,4 +16,4 @@ Montage is an Adobe Premiere extension created to streamline the editing process
 <img src="FootageSearchGif.gif" width="500px">  
 
 
-Team: Nick Howell, Andrew Fryzel, Christopher de Freitas, Gavin Monson
+Team: Andrew Fryzel, Nick Howell, Christopher de Freitas, Gavin Monson
